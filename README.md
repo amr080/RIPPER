@@ -1,5 +1,5 @@
-## RIPPERv4 [public]
-
+## RIPPER [public]
+v4
 
 1. rotating header
 2. multi-thread
