@@ -243,8 +243,8 @@ class EnhancedWebCrawler:
 
 async def main():
     sites = [
-        "https://a16z.com/portfolio/",
-        "https://a16z.com/"
+        "https://www.sequoiacap.com/",
+        "https://facebook.com/"
     ]
 
     config = CrawlConfig(
